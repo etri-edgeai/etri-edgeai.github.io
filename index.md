@@ -1,7 +1,7 @@
 <center>
 <h2> 능동적 즉시 대응 및 빠른 학습이 가능한 적응형 경량 엣지 연동분석 기술개발 </h2>
 </center>
-![GitHub Logo](https://user-images.githubusercontent.com/77012774/105664754-cb52ff00-5f18-11eb-81a8-b4b517c0e264.png)
+![GitHub Logo](https://user-images.githubusercontent.com/77012774/105668083-f725b300-5f1f-11eb-9f48-aba5ff083aa1.png)
 
 You can use the [editor on GitHub](https://github.com/etri-edgeai/etri-edgeai.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
