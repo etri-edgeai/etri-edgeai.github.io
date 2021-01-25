@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+![GitHub Logo](https://user-images.githubusercontent.com/77012774/105664754-cb52ff00-5f18-11eb-81a8-b4b517c0e264.png)
+
 You can use the [editor on GitHub](https://github.com/etri-edgeai/etri-edgeai.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
