@@ -1,1 +1,1 @@
-# etri-edgeai.github.io
+# Documentation for Edge AI
