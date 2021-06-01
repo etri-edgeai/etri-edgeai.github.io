@@ -13,7 +13,7 @@
 - Efficient deep learning techniques for improving model performance by understanding  neural networks
 
 ### Applications
-- Target use cases (Edge based object detection and action recognition for smart farm and smart city)
+- Target use cases (Edge based object detection and action recognition for smart farm and city)
 
 ### Source
 - nn-arch (neural architecture search), nn-comp (neural network compression), nn-infer(inference runtime)
