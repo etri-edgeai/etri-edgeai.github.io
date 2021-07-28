@@ -3,8 +3,23 @@
 </center>
 
 ### Neural Architecture Search
+- MobileDets: Searching for Object Detection Architectures for Mobile Accelerators
+  - https://arxiv.org/pdf/2004.14525.pdf
+- LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search
+  - https://arxiv.org/pdf/2104.14545.pdf
 - Only Train Once: A One-Shot Neural Network Training And Pruning Framework
   - https://arxiv.org/pdf/2107.07467.pdf 
+
+### Vehicle Re-Identification
+-
+-
+-
+
+### Distributed (Federated) Learning
+
+### Network Compression
+- Knowledge Distillation
+- 
 
 ### Inference
 - NIMBLE: Efficiency Compiling Dynamic Neural Networks for Model Inference
