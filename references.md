@@ -48,8 +48,8 @@
 
 ### Distributed (Federated) Learning
 - Class Imbalance
-- 
--
+- Augmentation for Federated Learning
+- P2P Learning 
 
 ### Network Compression
 - Knowledge Distillation
