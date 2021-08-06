@@ -15,24 +15,6 @@
 - AugLy (Facebook Augmentation Library)
   - https://github.com/facebookresearch/AugLy
 
-### ML Platform/Pipeline
-- KubeFlow:
-- Weights & Biases: https://wandb.ai/site
-- Uber Michelangelo:
-- Airbnb Bighead:
-- Netflix Metaflow:
-- Lyft Flyte:
-- AWS:
-- MS Azure Machine Learning: https://azure.microsoft.com/en-us/services/machine-learning/
-- GCP:
-- Co:
-- IBM Watson ML: https://www.ibm.com/cloud/watson-studio
-- Alibaba ML Platform for AI: https://www.alibabacloud.com/ko/product/machine-learning
-- H2O: 
-- Valohai: https://valohai.com/product/
-- iguazio: https://www.iguazio.com/platform/
-
-
 ### Neural Architecture Search
 - MobileDets: Searching for Object Detection Architectures for Mobile Accelerators
   - https://arxiv.org/pdf/2004.14525.pdf
@@ -71,3 +53,20 @@
 - AI Microservice Architecture
 - Kubernetes
 - Docker 
+
+### ML Platform/Pipeline
+- KubeFlow:
+- Weights & Biases: https://wandb.ai/site
+- Uber Michelangelo:
+- Airbnb Bighead:
+- Netflix Metaflow:
+- Lyft Flyte:
+- AWS SageMaker: https://aws.amazon.com/ko/sagemaker/
+- MS Azure Machine Learning: https://azure.microsoft.com/en-us/services/machine-learning/
+- GCP:
+- Co:
+- IBM Watson ML: https://www.ibm.com/cloud/watson-studio
+- Alibaba ML Platform for AI: https://www.alibabacloud.com/ko/product/machine-learning
+- H2O: 
+- Valohai: https://valohai.com/product/
+- iguazio: https://www.iguazio.com/platform/
