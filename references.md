@@ -6,10 +6,15 @@
 - A survey on Image Data Augmentation for Deep Learning
   - https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0
 - CutOut
+  - https://arxiv.org/pdf/1708.04552.pdf
 - CutMix
+  - https://github.com/clovaai/CutMix-PyTorch
 - FocusMix
+  - https://github.com/etri-edgeai/nn-aug-focusmix
 - PuzzleMix
+  - https://github.com/snu-mllab/PuzzleMix
 - SnapMix
+  - https://github.com/Shaoli-Huang/SnapMix
 - Albumentations
   - https://github.com/albumentations-team/albumentations
 - AugLy (Facebook Augmentation Library)
