@@ -60,6 +60,7 @@
 - AI Microservice Architecture
 - Kubernetes
 - Docker 
+- Device
 
 ### ML Platform/Pipeline
 - KubeFlow:
