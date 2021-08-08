@@ -29,6 +29,8 @@
   - https://arxiv.org/pdf/2104.14545.pdf
 - Only Train Once: A One-Shot Neural Network Training And Pruning Framework
   - https://arxiv.org/pdf/2107.07467.pdf 
+- BNAS:An Efficient Neural Architecture Search Approach Using Broad Scalable Architecture
+  - https://arxiv.org/pdf/2001.06679.pdf 
 
 ### Vehicle Re-Identification
 - (Cybercore AI) A Strong Baseline for Vehicle Re-Identification
