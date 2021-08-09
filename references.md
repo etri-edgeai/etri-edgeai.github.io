@@ -7,6 +7,8 @@
   - https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0
 - CutOut
   - https://arxiv.org/pdf/1708.04552.pdf
+- Mixup
+  - https://arxiv.org/pdf/1710.09412.pdf
 - CutMix
   - https://github.com/clovaai/CutMix-PyTorch
 - FocusMix
