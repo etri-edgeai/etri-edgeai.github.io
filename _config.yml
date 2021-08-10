@@ -1,3 +1,10 @@
 theme: jekyll-theme-cayman
 title: 적응형 경량 엣지 연동분석 시스템
 url: "https://github.com/etri-edgeai/cloud-edge-framework"
+
+# Conversion
+#markdown: kramdown
+#highlighter: rouge
+#lsi: false
+#excerpt_separator: "\n\n"
+#incremental: false
