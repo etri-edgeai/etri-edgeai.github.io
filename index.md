@@ -9,7 +9,7 @@
 ### Challenges
 - Competitions for building the most efficient model that solves the target task to the specified quality level. 
 
-### Research ([[Link Text|WikiPage]])
+### Research [Wiki](https://etri-edgeai.github.io/wiki)
 - Efficient deep learning techniques for improving model performance by understanding  neural networks
 
 ### Applications
