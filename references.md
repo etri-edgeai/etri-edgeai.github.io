@@ -17,6 +17,8 @@
   - https://github.com/snu-mllab/PuzzleMix
 - SnapMix
   - https://github.com/Shaoli-Huang/SnapMix
+- SuperMix
+  - https://github.com/alldbi/SuperMix
 - Smoothmix: a simple yet effective data augmentation to train robust classifiers
   - https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.pdf  
 - Albumentations
